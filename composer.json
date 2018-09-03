@@ -1,0 +1,17 @@
+{
+    "name": "lyapi/array2xml",
+    "description": "LyApi extensions library: returns XML data",
+    "type": "library",
+    "require": {
+        "verdant/xml2array": "dev-master",
+        "lyapi/lyapi-core": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiaozhuox",
+            "email": "mrxzx@wwsg18.top"
+        }
+    ],
+    "minimum-stability": "dev"
+}
