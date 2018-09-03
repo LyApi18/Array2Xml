@@ -9,12 +9,12 @@ class ComposerStaticInit7380564f5df2625ca246202dbcf41fef
     public static $prefixLengthsPsr4 = array (
         'L' => 
         array (
-            'LyApi\\extend\\Array2Xml\\' => 23,
+            'LyApi\\extend\\Array2XML\\' => 23,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'LyApi\\extend\\Array2Xml\\' => 
+        'LyApi\\extend\\Array2XML\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

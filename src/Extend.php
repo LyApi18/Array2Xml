@@ -1,11 +1,12 @@
 <?php
 
-namespace LyApi\extend\Array2Xml;
+namespace LyApi\extend\Array2XML;
 
-include "XmlData.php";
+include "Array2XML.php";
 
 class Extend{
-    public static function XmlData($name,$data){
-        return XmlData::XmlData($name,$data);
+    public static function XMLData($root,$data){
+        $xml =  Array2XML::createXML($root,$data);
+        return $xml->saveXML();
     }
 }
