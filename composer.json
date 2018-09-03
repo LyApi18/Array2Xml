@@ -2,10 +2,7 @@
     "name": "lyapi/array2xml",
     "description": "LyApi extensions library: returns XML data",
     "type": "library",
-    "require": {
-        "verdant/xml2array": "dev-master",
-        "lyapi/lyapi-core": "dev-master"
-    },
+    "require": {},
     "license": "MIT",
     "authors": [
         {

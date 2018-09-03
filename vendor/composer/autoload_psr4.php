@@ -6,9 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Whoops\\' => array($vendorDir . '/filp/whoops/src/Whoops'),
-    'Psr\\Log\\' => array($vendorDir . '/psr/log/Psr/Log'),
-    'Predis\\' => array($vendorDir . '/predis/predis/src'),
-    'Medoo\\' => array($vendorDir . '/catfan/medoo/src'),
-    'LyApi\\' => array($vendorDir . '/lyapi/lyapi-core/src'),
+    'LyApi\\extend\\Xml2Array\\' => array($baseDir . '/src'),
 );
