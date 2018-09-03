@@ -13,5 +13,10 @@
             "email": "mrxzx@wwsg18.top"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "LyApi\\extend\\Xml2Array\\": "src"
+        }
+    },
     "minimum-stability": "dev"
 }
