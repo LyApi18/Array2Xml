@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'LyApi\\extend\\Xml2Array\\' => array($baseDir . '/src'),
+    'LyApi\\extend\\Array2Xml\\' => array($baseDir . '/src'),
 );

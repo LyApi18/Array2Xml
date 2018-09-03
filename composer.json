@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "LyApi\\extend\\Xml2Array\\": "src"
+            "LyApi\\extend\\Array2Xml\\": "src"
         }
     },
     "minimum-stability": "dev"
