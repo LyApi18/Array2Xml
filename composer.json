@@ -2,6 +2,7 @@
     "name": "lyapi/array2xml",
     "description": "LyApi extensions library: returns XML data",
     "type": "library",
+    "keywords": ["lyapi","extend"],
     "require": {},
     "license": "MIT",
     "authors": [

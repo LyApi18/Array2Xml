@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed7a1071-3d10-4714-b4d0-510de061e845" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Array2Xml.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Array2Xml.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
@@ -32,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/src/Extend.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="48">
-              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+              <caret line="2" column="32" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -40,8 +39,8 @@
       <file leaf-file-name="composer.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+            <state relative-caret-position="96">
+              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -146,7 +145,7 @@
       <workItem from="1535964111612" duration="1546000" />
       <workItem from="1535971524357" duration="29000" />
       <workItem from="1535971571441" duration="180000" />
-      <workItem from="1535972185233" duration="428000" />
+      <workItem from="1535972185233" duration="1207000" />
     </task>
     <task id="LOCAL-00001" summary="Array2Xml">
       <created>1535965427411</created>
@@ -169,11 +168,25 @@
       <option name="project" value="LOCAL" />
       <updated>1535972401494</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Array2Xml">
+      <created>1535972666934</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1535972666934</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Array2Xml">
+      <created>1535973038467</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1535973038467</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8583000" />
+    <option name="totallyTimeSpent" value="9362000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="808" extended-state="0" />
@@ -339,14 +352,14 @@
     <entry file="file://$PROJECT_DIR$/src/Extend.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        <state relative-caret-position="96">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
         </state>
       </provider>
     </entry>
